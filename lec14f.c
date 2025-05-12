@@ -1,5 +1,5 @@
 #include<stdio.h>
-int power(int n, int p){
+int power(int n,int p){
     if(p==0){
         return 1;
     }
